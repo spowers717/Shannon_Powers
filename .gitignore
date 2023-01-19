@@ -45,7 +45,7 @@ vignettes/*.pdf
 .RData
 .Rhistory
 .Rapp.history
-# Temporary files
+# Temporary microsoft files
 *~
 ~$*.doc*
 ~$*.xls*
